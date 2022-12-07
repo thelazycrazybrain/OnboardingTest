@@ -1,0 +1,12 @@
+C:\source\Bewerber\jwn\src\TheLazyCrazyBrain.CarRental\TheLazyCrazyBrain.CarRental.Module\bin\Debug\net6.0\TheLazyCrazyBrain.CarRental.Module.deps.json
+C:\source\Bewerber\jwn\src\TheLazyCrazyBrain.CarRental\TheLazyCrazyBrain.CarRental.Module\bin\Debug\net6.0\TheLazyCrazyBrain.CarRental.Module.dll
+C:\source\Bewerber\jwn\src\TheLazyCrazyBrain.CarRental\TheLazyCrazyBrain.CarRental.Module\bin\Debug\net6.0\TheLazyCrazyBrain.CarRental.Module.pdb
+C:\source\Bewerber\jwn\src\TheLazyCrazyBrain.CarRental\TheLazyCrazyBrain.CarRental.Module\obj\Debug\net6.0\TheLazyCrazyBrain.CarRental.Module.csproj.AssemblyReference.cache
+C:\source\Bewerber\jwn\src\TheLazyCrazyBrain.CarRental\TheLazyCrazyBrain.CarRental.Module\obj\Debug\net6.0\TheLazyCrazyBrain.CarRental.Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\Bewerber\jwn\src\TheLazyCrazyBrain.CarRental\TheLazyCrazyBrain.CarRental.Module\obj\Debug\net6.0\TheLazyCrazyBrain.CarRental.Module.AssemblyInfoInputs.cache
+C:\source\Bewerber\jwn\src\TheLazyCrazyBrain.CarRental\TheLazyCrazyBrain.CarRental.Module\obj\Debug\net6.0\TheLazyCrazyBrain.CarRental.Module.AssemblyInfo.cs
+C:\source\Bewerber\jwn\src\TheLazyCrazyBrain.CarRental\TheLazyCrazyBrain.CarRental.Module\obj\Debug\net6.0\TheLazyCrazyBrain.CarRental.Module.csproj.CoreCompileInputs.cache
+C:\source\Bewerber\jwn\src\TheLazyCrazyBrain.CarRental\TheLazyCrazyBrain.CarRental.Module\obj\Debug\net6.0\TheLazyCrazyBrain.CarRental.Module.dll
+C:\source\Bewerber\jwn\src\TheLazyCrazyBrain.CarRental\TheLazyCrazyBrain.CarRental.Module\obj\Debug\net6.0\refint\TheLazyCrazyBrain.CarRental.Module.dll
+C:\source\Bewerber\jwn\src\TheLazyCrazyBrain.CarRental\TheLazyCrazyBrain.CarRental.Module\obj\Debug\net6.0\TheLazyCrazyBrain.CarRental.Module.pdb
+C:\source\Bewerber\jwn\src\TheLazyCrazyBrain.CarRental\TheLazyCrazyBrain.CarRental.Module\obj\Debug\net6.0\ref\TheLazyCrazyBrain.CarRental.Module.dll

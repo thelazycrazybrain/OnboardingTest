@@ -1,12 +1,33 @@
-﻿<?xml version="1.0" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Application Title="TheLazyCrazyBrain.CarRental">
   <BOModel>
     <Class Name="DevExpress.Persistent.BaseImpl.PermissionPolicy.PermissionPolicyUser" Caption="Base User" />
   </BOModel>
+  <NavigationItems>
+    <Items>
+      <Item Id="Default" Caption="Rental">
+        <Items>
+          <Item Id="RentedCars_ListView" Index="0" />
+          <Item Id="Customer_ListView" Index="1" />
+          <Item Id="Car_ListView" Index="2" />
+        </Items>
+      </Item>
+    </Items>
+  </NavigationItems>
   <Options>
     <LayoutManagerOptions RequiredFieldMark="*" />
   </Options>
+  <SchemaModules>
+    <SchemaModule Name="SystemModule" Version="22.1.4.0" IsNewNode="True" />
+  </SchemaModules>
   <Views>
     <ListView Id="ApplicationUser_ListView" Caption="Users" />
+    <ListView Id="RentedCars_ListView">
+      <Filters CurrentFilterId="@24d34627-728a-463b-97ef-40950d5d2eba">
+        <Filter Id="@24d34627-728a-463b-97ef-40950d5d2eba" Index="0" Caption="Active" Criteria="[RentEnd] Is Null Or [RentEnd] &gt; Today()" IsNewNode="True" />
+        <Filter Id="@8b888f57-2a2f-4728-953b-a62426d9401d" Caption="Returned" Criteria="[RentEnd] Is Not Null And [RentEnd] &lt;= Today()" Index="1" IsNewNode="True" />
+        <Filter Id="@5c3aa122-4a54-4908-bdf6-2905af5e1a5b" Caption="All" Index="2" IsNewNode="True" />
+      </Filters>
+    </ListView>
   </Views>
 </Application>
